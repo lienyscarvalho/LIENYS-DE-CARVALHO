@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.AppCompat.Light" parent="android:Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:colorPrimary">#660099</item>
+    </style>
+</resources>

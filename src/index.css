@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply antialiased select-none;
+  }
+}
+
+/* Custom styling for Vivo scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: #660099;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #4a006f;
+}
