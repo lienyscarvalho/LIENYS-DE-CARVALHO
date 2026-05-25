@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Qualidade Vivo",
+  "description": "Aplicativo robusto para gestão de indicadores de qualidade, monitoramento de prazos, conformidade (FCA, PDCA, Ishikawa, 5W2H) e plano de ação na Vivo Telefônica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
